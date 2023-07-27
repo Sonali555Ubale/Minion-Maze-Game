@@ -19,13 +19,16 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
-    <img src="Title.jpg">
+     <h3 align="center"> Minion Maze </h3>
+    <hr>
+    <img src="Minion-Maze.png" width="500">
 </div>
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center"> Minion Maze </h3>
+ 
   <p align="justify">
     You play as a minion who simply has to reach the end of the maze. You are motivated by only one thing and that's bananas. You clearly see fireworks go off in the distance which is shaped like bananas. Your goal is to reach the end and see what lies there. You are equipped with a hammer if anything comes between you and the bananas.
 
@@ -50,8 +53,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-     
-      </ul>
+       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
